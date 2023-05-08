@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 13.3.1//EN
+N:Rangel;Gustavo;;;
+FN:Gustavo Rangel
+ORG:The Gustavo Rangel Agency;
+EMAIL;type=INTERNET;type=WORK;type=pref:gustavo.rangel@brightway.com
+TEL;type=CELL;type=VOICE;type=pref:689-205-8899
+ADR;type=WORK;type=pref:;;6000 Metrowest Blvd\, Ste 116;Orlando;FL;32835;
+item1.URL;type=pref:BrightwayGustavoRangel.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
