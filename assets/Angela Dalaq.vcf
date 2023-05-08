@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Angela Dalaq;;;
+FN: Angela Dalaq
+ORG:Brightway, The Steve Trout Agency;
+TITLE:Licensed Agent
+EMAIL;type=INTERNET;type=WORK;type=pref:angela.dalaq@brightway.com
+TEL;type=WORK;type=VOICE:+1 3213384309
+TEL;type=HOME;type=VOICE:+1 8777270307
+TEL;type=SERVICE;type=VOICE:+1 8882545014
+item1.ADR;type=WORK;type=pref:;;1899 Murrell Road Suite 136;Rockledge;FL;32955;United States of America
+item1.X-ABADR:sg
+item2.URL;type=pref:BrightwayTrout.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
